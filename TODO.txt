@@ -1,4 +1,4 @@
-- Install Express
-- Set up basic server.js file
+X Install Express
+X Set up basic server.js file
 - Host app on HEROKU
 - Set up app to be able to push to HEROKU
